@@ -1,0 +1,128 @@
+.nail-art-section {
+  display: flex;
+  flex-wrap: wrap; /* Allow content to wrap for smaller screens */
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  background-color: #f9f9f9;
+}
+
+.image-area {
+  flex: 1;
+  text-align: center;
+  margin-bottom: 20px; /* Add spacing for smaller screens */
+}
+
+.illustration {
+  max-width: 100%; /* Make the image responsive */
+  height: auto;
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+.text-area {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+}
+
+.text-area h1 {
+  font-size: 28px; /* Adjust font size for better readability on small screens */
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.text-area p {
+  font-size: 16px; /* Reduce font size slightly for smaller screens */
+  color: #555;
+  line-height: 1.5;
+}
+
+.extra-content {
+  margin-top: 20px;
+  color: #555;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.read-more-btn {
+  padding: 10px 20px;
+  border: none;
+  background-color: #f8a5c2;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  display: inline-block;
+  text-align: center;
+}
+
+.read-more-btn:hover {
+  background-color: #e17055;
+}
+
+.text-area a {
+  text-decoration: none;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1024px) {
+  .nail-art-section {
+    flex-direction: column; /* Stack content vertically on medium screens */
+    text-align: center;
+  }
+
+  .text-area {
+    text-align: center; /* Center-align text for better readability */
+  }
+
+  .text-area h1 {
+    font-size: 24px; /* Further reduce font size for medium screens */
+  }
+
+  .text-area p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .illustration {
+    width: 100%; /* Make the image take up full width */
+  }
+
+  .text-area {
+    padding: 10px;
+  }
+
+  .text-area h1 {
+    font-size: 22px; /* Smaller font size for narrow screens */
+  }
+
+  .text-area p {
+    font-size: 14px; /* Adjust text size for narrow screens */
+  }
+
+  .read-more-btn {
+    font-size: 14px; /* Adjust button size for smaller screens */
+    padding: 8px 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .nail-art-section {
+    padding: 20px; /* Reduce padding for very small screens */
+  }
+
+  .text-area h1 {
+    font-size: 20px;
+  }
+
+  .text-area p {
+    font-size: 12px;
+  }
+
+  .read-more-btn {
+    font-size: 12px;
+    padding: 6px 12px;
+  }
+}

@@ -1,0 +1,78 @@
+.footer {
+  background-color: #f8f0e3; /* Light cream color for a warm, elegant look */
+  color: #4a4a4a; /* Neutral gray for text */
+  padding: 3px 0;
+  text-align: center;
+  font-family: "Arial", sans-serif;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  flex-wrap: wrap; /* Makes the layout stack on smaller screens */
+}
+
+.footer-left {
+  flex: 1;
+  text-align: left;
+  padding: 10px;
+}
+
+.footer-left p {
+  font-size: 14px;
+  color: #6d6d6d;
+  margin: 0;
+}
+
+.footer-right {
+  flex: 1;
+  text-align: right;
+  padding: 10px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
+.social-link {
+  color: #e17055; /* Highlight color for social icons */
+  font-size: 24px; /* Slightly larger icons for emphasis */
+  transition:
+    transform 0.3s ease,
+    color 0.3s ease;
+}
+
+.social-link:hover {
+  color: #d35400; /* Deeper orange hover effect */
+  transform: scale(1.2); /* Add a pop effect on hover */
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-left,
+  .footer-right {
+    text-align: center;
+    padding: 5px 0;
+  }
+
+  .social-icons {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .social-link {
+    font-size: 20px; /* Slightly smaller icons on very small screens */
+  }
+}
