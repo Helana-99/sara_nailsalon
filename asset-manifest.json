@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/sara_nailsalon/static/css/main.7c1fce01.css",
+    "main.js": "/sara_nailsalon/static/js/main.f76be66d.js",
+    "static/js/453.37ffc7f7.chunk.js": "/sara_nailsalon/static/js/453.37ffc7f7.chunk.js",
+    "static/media/fa-solid-900.ttf": "/sara_nailsalon/static/media/fa-solid-900.42c745469c29afbc4e98.ttf",
+    "static/media/fa-brands-400.ttf": "/sara_nailsalon/static/media/fa-brands-400.4e755efff9e2ad0cc4ce.ttf",
+    "static/media/fa-solid-900.woff2": "/sara_nailsalon/static/media/fa-solid-900.a4453cdb966b98ed8801.woff2",
+    "static/media/fa-brands-400.woff2": "/sara_nailsalon/static/media/fa-brands-400.265683c169acc4399fe4.woff2",
+    "static/media/7.jpg": "/sara_nailsalon/static/media/7.349158931282895c5d05.jpg",
+    "static/media/fa-regular-400.ttf": "/sara_nailsalon/static/media/fa-regular-400.fca1ba8756e66eb24cc3.ttf",
+    "static/media/13.jpg": "/sara_nailsalon/static/media/13.6b00257501ec9fa87bef.jpg",
+    "static/media/3.jpg": "/sara_nailsalon/static/media/3.739ef66e9e11a8ff6048.jpg",
+    "static/media/16.jpg": "/sara_nailsalon/static/media/16.488314ca583ed7a752e3.jpg",
+    "static/media/8.jpg": "/sara_nailsalon/static/media/8.5b22b4ff11ecc994707f.jpg",
+    "static/media/4.jpg": "/sara_nailsalon/static/media/4.8658ed460f7559996502.jpg",
+    "static/media/fa-regular-400.woff2": "/sara_nailsalon/static/media/fa-regular-400.1bb9d91b4e86ea5158e6.woff2",
+    "static/media/1.jpg": "/sara_nailsalon/static/media/1.8aa29681e8c6cbfca5fa.jpg",
+    "static/media/14.jpg": "/sara_nailsalon/static/media/14.79d4ed5bad2d85b2a0b1.jpg",
+    "static/media/6.jpg": "/sara_nailsalon/static/media/6.f6558c40e710431175ce.jpg",
+    "static/media/17.jpg": "/sara_nailsalon/static/media/17.4756bb3f00da36568e8e.jpg",
+    "static/media/15.jpg": "/sara_nailsalon/static/media/15.2c2ffd695cfced473014.jpg",
+    "static/media/12.jpg": "/sara_nailsalon/static/media/12.7474dee2aba96e1e5e51.jpg",
+    "static/media/18.jpg": "/sara_nailsalon/static/media/18.d59b15416bc7e2d72f23.jpg",
+    "static/media/10.jpg": "/sara_nailsalon/static/media/10.42f20269cfea312381b7.jpg",
+    "static/media/fa-v4compatibility.ttf": "/sara_nailsalon/static/media/fa-v4compatibility.c230767394a35143968f.ttf",
+    "static/media/11.jpg": "/sara_nailsalon/static/media/11.6453e1936177d97ef29c.jpg",
+    "static/media/fa-v4compatibility.woff2": "/sara_nailsalon/static/media/fa-v4compatibility.eac4dbb6d61d3a73befd.woff2",
+    "static/media/slick.svg": "/sara_nailsalon/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sara_nailsalon/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sara_nailsalon/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sara_nailsalon/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sara_nailsalon/index.html",
+    "main.7c1fce01.css.map": "/sara_nailsalon/static/css/main.7c1fce01.css.map",
+    "main.f76be66d.js.map": "/sara_nailsalon/static/js/main.f76be66d.js.map",
+    "453.37ffc7f7.chunk.js.map": "/sara_nailsalon/static/js/453.37ffc7f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c1fce01.css",
+    "static/js/main.f76be66d.js"
+  ]
+}
